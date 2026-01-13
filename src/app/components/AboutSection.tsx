@@ -38,7 +38,7 @@ export function AboutSection() {
           className="max-w-5xl mx-auto bg-white/70 backdrop-blur-xl rounded-3xl p-10 md:p-14 shadow-xl border border-white/60"
         >
           <p className="text-lg md:text-xl text-gray-700 leading-relaxed text-center mb-14">
-            Nexo Infotech is a team of passionate professionals focused on
+            Fusionix Technologies is a team of passionate professionals focused on
             delivering reliable, scalable, and high-quality digital solutions
             that help businesses grow and stand out in the digital world.
           </p>
