@@ -37,7 +37,7 @@ export function HeroSection() {
             </h1>
 
             <p className="text-lg md:text-xl text-gray-300 mb-8 leading-relaxed">
-              Nexo Infotech delivers websites, web applications, and digital creative
+              Fusionix Technologies delivers websites, web applications, and digital creative
               services that help businesses grow online.
             </p>
 
